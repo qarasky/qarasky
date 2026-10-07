@@ -1,7 +1,7 @@
 ### I'm Sky (Skyler)
 
 Web Systems Engineer working across interfaces, content systems, infrastructure, deployments, servers, and self-hosted tools.
-Previously Frontend Developer at [MediaBoost Group](https://mediaboost.asia).
+Currently Frontend Developer at [MediaBoost Group](https://mediaboost.asia).
 
 - Website / portfolio / blog (EN/RU): [1410666.xyz](https://1410666.xyz/)
 - GitHub: [qarasky](https://github.com/qarasky)
