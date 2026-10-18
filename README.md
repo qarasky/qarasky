@@ -5,7 +5,7 @@ Currently Frontend Developer at [MediaBoost Group](https://mediaboost.asia).
 
 - Website / portfolio / blog (EN/RU): [1410666.xyz](https://1410666.xyz/)
 - GitHub: [qarasky](https://github.com/qarasky)
-- Email: october.skyler@proton.me
+- Email: contact@qarasky.dev
 
 Projects:
 - [Falco](https://github.com/qarasky/falco) — Portable SSH launchers for teams and AI agents. One 1–2 MB executable per server: runs commands, opens a shell, moves files over SFTP. Credentials stay in the OS store, safe to commit in password mode.
