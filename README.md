@@ -3,7 +3,7 @@
 Web Systems Engineer working across interfaces, content systems, infrastructure, deployments, servers, and self-hosted tools.
 Currently Frontend Developer at [MediaBoost Group](https://mediaboost.asia).
 
-- Website / portfolio / blog (EN/RU): [1410666.xyz](https://1410666.xyz/)
+- Website / portfolio / blog (EN/RU): [qarasky.dev](https://qarasky.dev/)
 - GitHub: [qarasky](https://github.com/qarasky)
 - Email: contact@qarasky.dev
 
