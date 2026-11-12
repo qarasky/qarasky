@@ -1,7 +1,7 @@
 ### I'm Sky (Skyler) (Artyom)
 
 Web Systems Engineer working across interfaces, content systems, infrastructure, deployments, servers, and self-hosted tools.
-Currently Frontend Developer at [MediaBoost Group](https://mediaboost.asia).
+Currently Full-stack Developer at [MediaBoost Group](https://mediaboost.asia) and working on my own website agency at [Hoshi](https://hoshi.kz/).
 
 - Website / portfolio / blog (EN/RU): [qarasky.dev](https://qarasky.dev/)
 - GitHub: [qarasky](https://github.com/qarasky)
