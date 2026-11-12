@@ -1,4 +1,4 @@
-### I'm Sky (Skyler)
+### I'm Sky (Skyler) (Artyom)
 
 Web Systems Engineer working across interfaces, content systems, infrastructure, deployments, servers, and self-hosted tools.
 Currently Frontend Developer at [MediaBoost Group](https://mediaboost.asia).
